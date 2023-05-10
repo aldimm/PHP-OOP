@@ -1,0 +1,30 @@
+.AB
+{
+    border: 1;
+    color: black;
+    padding: 10px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin-top: 20px;
+    background-color: rgb(5, 137, 0);
+}
+
+.border
+{
+    width : auto ;
+    height : auto;
+    text-align: center;
+    background-color:rgb(72, 123, 77);
+    border-radius: 5px;
+}
+
+table
+{
+    margin-left: 600px;
+}
+
+body
+{
+    background-color: #a2b23a;
+}
